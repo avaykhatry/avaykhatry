@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=avaykhatry)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=avaykhatry&theme=dark-smoky&hide_border=true&date_format=%5BY.%5Dn.j&card_width=556&card_height=211&hide_total_contributions=true)](https://git.io/streak-stats)
